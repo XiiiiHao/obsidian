@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "bda3b8d418f63770",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb942a4aa17f03e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0417381529234096",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研/Introduction to linear algebra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56d42b570e8145c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d5d933e300ebd67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df92824dca15c2f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb5f63ba52959c84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ddfe53300b750cae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aae4e13e69276855",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0307fb977b3649c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "735a14c90a18c6f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "考研/Introduction to linear algebra.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8aa926c8ce412309",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "考研/Introduction to linear algebra.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efbe2854305db326",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67a8f787f374b0e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "考研/Introduction to linear algebra.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "df92824dca15c2f9",
+  "lastOpenFiles": [
+    "weread",
+    "运动学建模.md",
+    "考研/Introduction to linear algebra.md",
+    "考研/logseq/bak/Introduction to linear algebra/2024-05-12T06_12_11.499Z.Desktop.md",
+    "考研/logseq/bak/Introduction to linear algebra/2024-05-12T06_11_14.530Z.Desktop.md",
+    "考研/logseq/bak/Introduction to linear algebra/2024-05-12T06_09_34.121Z.Desktop.md",
+    "考研/logseq/bak/Introduction to linear algebra/2024-05-12T06_09_31.980Z.Desktop.md",
+    "考研/logseq/bak/Introduction to linear algebra/2024-05-12T06_09_28.456Z.Desktop.md",
+    "考研/logseq/bak/Introduction to linear algebra/2024-05-12T06_08_58.977Z.Desktop.md",
+    "考研/logseq/bak/Introduction to linear algebra/2024-05-12T06_05_32.820Z.Desktop.md",
+    "考研/logseq/bak/Introduction to linear algebra/2024-05-12T06_05_17.728Z.Desktop.md",
+    "考研/logseq/bak/Introduction to linear algebra/2024-05-12T06_05_05.289Z.Desktop.md",
+    "考研/logseq/bak/Introduction to linear algebra/2024-05-12T06_05_03.186Z.Desktop.md",
+    "考研/logseq/bak/Introduction to linear algebra",
+    "考研/logseq/bak",
+    "考研/Interactive Linear Algebra.md",
+    "考研/未命名.canvas",
+    "考研/高数.md",
+    "计算机图形学.md",
+    "未命名 1.md",
+    "税的真相——让老百姓读懂中国税/税的真相——让老百姓读懂中国税.md",
+    "What Is ChatGPT Doing ... And Why Does It Work?/What Is ChatGPT Doing ... And Why Does It Work.md",
+    "What Is ChatGPT Doing ... And Why Does It Work?",
+    "2024-05-05.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "考研",
+    "Shogun/Shogun.md",
+    "自卑与超越（完整全译本）/自卑与超越（完整全译本）.md",
+    "自卑与超越（完整全译本）",
+    "税的真相——让老百姓读懂中国税",
+    "左耳听风[更新完毕]/左耳听风[更新完毕].md",
+    "左耳听风[更新完毕]",
+    "Shogun",
+    "vimtutor.md",
+    "常用git指令.md",
+    "jeykll-learning.md"
+  ]
+}
