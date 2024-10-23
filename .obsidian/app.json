@@ -3,14 +3,15 @@
   "vimMode": true,
   "readableLineLength": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "./attachments",
   "newFileLocation": "current",
   "newLinkFormat": "absolute",
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "Letter",
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "promptDelete": false
 }

@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "eb942a4aa17f03e7",
+        "id": "417e1e99ac10fbba",
         "type": "tabs",
         "children": [
           {
-            "id": "0417381529234096",
+            "id": "dd67e2a593bc1a80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/Introduction to linear algebra.md",
+                "file": "考研/高数/强化补全/积分.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "积分"
+            }
+          },
+          {
+            "id": "57f23a4f5bcdd192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研/data-structure/排序.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "排序"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,14 +83,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 260.5
   },
   "right": {
     "id": "aae4e13e69276855",
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研/Introduction to linear algebra.md",
+                "file": "考研/data-structure/排序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "排序 的反向链接列表"
             }
           },
           {
@@ -102,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考研/Introduction to linear algebra.md",
+                "file": "考研/data-structure/排序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "排序 的出链列表"
             }
           },
           {
@@ -116,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -125,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研/Introduction to linear algebra.md"
-              }
+                "file": "考研/data-structure/排序.md"
+              },
+              "icon": "lucide-list",
+              "title": "排序 的大纲"
             }
           }
         ],
@@ -134,57 +165,71 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "df92824dca15c2f9",
+  "active": "57f23a4f5bcdd192",
   "lastOpenFiles": [
-    "weread",
-    "运动学建模.md",
-    "考研/Introduction to linear algebra.md",
-    "考研/logseq/bak/Introduction to linear algebra/2024-05-12T06_12_11.499Z.Desktop.md",
-    "考研/logseq/bak/Introduction to linear algebra/2024-05-12T06_11_14.530Z.Desktop.md",
-    "考研/logseq/bak/Introduction to linear algebra/2024-05-12T06_09_34.121Z.Desktop.md",
-    "考研/logseq/bak/Introduction to linear algebra/2024-05-12T06_09_31.980Z.Desktop.md",
-    "考研/logseq/bak/Introduction to linear algebra/2024-05-12T06_09_28.456Z.Desktop.md",
-    "考研/logseq/bak/Introduction to linear algebra/2024-05-12T06_08_58.977Z.Desktop.md",
-    "考研/logseq/bak/Introduction to linear algebra/2024-05-12T06_05_32.820Z.Desktop.md",
-    "考研/logseq/bak/Introduction to linear algebra/2024-05-12T06_05_17.728Z.Desktop.md",
-    "考研/logseq/bak/Introduction to linear algebra/2024-05-12T06_05_05.289Z.Desktop.md",
-    "考研/logseq/bak/Introduction to linear algebra/2024-05-12T06_05_03.186Z.Desktop.md",
-    "考研/logseq/bak/Introduction to linear algebra",
-    "考研/logseq/bak",
-    "考研/Interactive Linear Algebra.md",
+    "考研/code.md",
+    "考研/OSTEP.md",
+    "考研/Markov Matrix.md",
+    "考研/高数/大纲/第18讲多元函数积分学.md",
+    "考研/高数/大纲/第17讲 多元函数积分学的预备知识.md",
+    "考研/高数/强化补全/积分.md",
+    "考研/高数/一元函数积分学.excalidraw.md",
+    "考研/高数/易忘知识点.md",
+    "考研/高数/强化补全/级数.md",
+    "考研/高数/大纲",
+    "考研/高数/基础/一元函数积分学/变限积分的计算.md",
+    "考研/高数/强化补全/敛散性判别.md",
+    "考研/高数/强化补全/Formulas.md",
+    "考研/高数/强化补全/小技巧与注意事项.md",
+    "考研/高数/强化补全/微分方程.md",
+    "考研/高数/基础/一元函数积分学/基本积分公式.md",
+    "考研/高数/强化补全/求极限.md",
+    "考研/高数/强化补全/概念题.md",
+    "考研/高数/强化补全/导数.md",
+    "考研/高数/强化补全/定理.md",
+    "考研/高数/强化补全/不等关系.md",
+    "考研/高数/强化补全/Taylor.md",
+    "考研/高数/强化补全/错题总结.md",
+    "考研/高数/基础/微分方程/高阶线性方程.md",
+    "考研/高数/基础/微分方程/一阶微分方程.md",
+    "考研/高数/基础/微分方程",
+    "考研/高数/一元函数积分学/基本积分公式.md",
+    "考研/高数/基础/一元函数积分学/定积分的计算.md",
+    "考研/高数/基础/一元函数积分学",
+    "考研/高数/基础/一元微分学",
+    "考研/高数/基础",
+    "考研/data-structure",
+    "考研/NJU-Algorithms",
+    "考研/高数/强化补全/a01697a603f77c503a75d989ad776d4c.par.temp",
+    "考研/高数/强化补全/07c973cd31cdb2d626b93c43f681fb58.par.temp",
+    "考研/高数/强化补全",
+    "attachments/Pasted image 20240817144135.png",
+    "考研/LinearAlgebra/attachments/Pasted image 20240817143951.png",
+    "考研/高数/attachments/Pasted Image 20240802104031_908.png",
+    "Auxiliary/Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
+    "Auxiliary/Excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "Auxiliary/Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Auxiliary/Excalidraw/Scripts/Downloaded/Connect elements.svg",
+    "Auxiliary/Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
+    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
     "考研/未命名.canvas",
-    "考研/高数.md",
-    "计算机图形学.md",
-    "未命名 1.md",
-    "税的真相——让老百姓读懂中国税/税的真相——让老百姓读懂中国税.md",
-    "What Is ChatGPT Doing ... And Why Does It Work?/What Is ChatGPT Doing ... And Why Does It Work.md",
-    "What Is ChatGPT Doing ... And Why Does It Work?",
-    "2024-05-05.md",
     "未命名 1.canvas",
-    "未命名.canvas",
-    "考研",
-    "Shogun/Shogun.md",
-    "自卑与超越（完整全译本）/自卑与超越（完整全译本）.md",
-    "自卑与超越（完整全译本）",
-    "税的真相——让老百姓读懂中国税",
-    "左耳听风[更新完毕]/左耳听风[更新完毕].md",
-    "左耳听风[更新完毕]",
-    "Shogun",
-    "vimtutor.md",
-    "常用git指令.md",
-    "jeykll-learning.md"
+    "未命名.canvas"
   ]
 }

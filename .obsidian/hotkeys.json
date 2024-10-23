@@ -33,5 +33,13 @@
       ],
       "key": "M"
     }
+  ],
+  "templater-obsidian:Auxiliary/Templates/Callout.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
   ]
 }
