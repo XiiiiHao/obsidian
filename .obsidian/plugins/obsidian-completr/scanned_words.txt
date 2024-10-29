@@ -21,6 +21,7 @@ equals
 excluding
 example
 else
+edc
 plugin
 parsed
 palette
@@ -79,6 +80,7 @@ tR
 tip
 trim
 tRsptHBP
+trap
 Switch
 Saving
 Solving
@@ -100,6 +102,7 @@ Success
 Summary
 Stochastic
 Sj
+Sarrus
 EXCALIDRAW
 Excalidraw
 Elements
@@ -160,6 +163,7 @@ Matrix
 Machine
 Miscellaneous
 Model
+MBR
 OPTIONS
 On
 Orthogonality
@@ -423,6 +427,7 @@ Tip
 Taylor
 Tower
 Tarjan
+TLB
 WVYMY
 Why
 We
@@ -469,6 +474,7 @@ Lesson
 Left
 LRU
 LFU
+Laplace
 ZfVif
 ZL
 Zrwp
@@ -519,6 +525,9 @@ PC
 PkSjhKhV
 POmv
 Proof
+PSW
+PBR
+PAQ
 hhCDOmUj
 have
 has
@@ -569,6 +578,7 @@ CTRL
 Contents
 Check
 Correctness
+Cache
 vectors
 vector
 vice
@@ -627,6 +637,7 @@ bug
 bofyUL
 beg
 bits
+boot
 Gaussian
 Gauss
 Graphs
@@ -654,6 +665,7 @@ BACKWARD
 Bug
 Behavior
 BF
+BIOS
 Inverse
 If
 Important
@@ -665,6 +677,7 @@ Info
 IMG
 II
 III
+INTR
 No
 Null
 Networks
@@ -672,6 +685,7 @@ NOTE
 Note
 Nn
 NnoSiG
+NMI
 Jordan
 Just
 Jump
@@ -696,6 +710,7 @@ Right
 Relative
 Rate
 Recursion
+ROM
 qAV
 quote
 xxx

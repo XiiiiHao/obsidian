@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300">
+    <!-- 主矩阵 -->
+    <rect x="50" y="50" width="180" height="180" fill="none" stroke="black"/>
+    <line x1="110" y1="50" x2="110" y2="230" stroke="black"/>
+    <line x1="170" y1="50" x2="170" y2="230" stroke="black"/>
+    <line x1="50" y1="110" x2="230" y2="110" stroke="black"/>
+    <line x1="50" y1="170" x2="230" y2="170" stroke="black"/>
+    
+    <!-- 复制的两列 -->
+    <rect x="230" y="50" width="120" height="180" fill="none" stroke="black" stroke-dasharray="5,5"/>
+    <line x1="290" y1="50" x2="290" y2="230" stroke="black" stroke-dasharray="5,5"/>
+    
+    <!-- 元素标签 -->
+    <text x="80" y="90" font-size="20">a₁₁</text>
+    <text x="140" y="90" font-size="20">a₁₂</text>
+    <text x="200" y="90" font-size="20">a₁₃</text>
+    <text x="260" y="90" font-size="20">a₁₁</text>
+    <text x="320" y="90" font-size="20">a₁₂</text>
+    
+    <text x="80" y="150" font-size="20">a₂₁</text>
+    <text x="140" y="150" font-size="20">a₂₂</text>
+    <text x="200" y="150" font-size="20">a₂₃</text>
+    <text x="260" y="150" font-size="20">a₂₁</text>
+    <text x="320" y="150" font-size="20">a₂₂</text>
+    
+    <text x="80" y="210" font-size="20">a₃₁</text>
+    <text x="140" y="210" font-size="20">a₃₂</text>
+    <text x="200" y="210" font-size="20">a₃₃</text>
+    <text x="260" y="210" font-size="20">a₃₁</text>
+    <text x="320" y="210" font-size="20">a₃₂</text>
+    
+    <!-- 正对角线 -->
+    <path d="M70,70 L200,200" stroke="blue" stroke-width="2" fill="none"/>
+    <path d="M130,70 L260,200" stroke="blue" stroke-width="2" fill="none"/>
+    <path d="M190,70 L320,200" stroke="blue" stroke-width="2" fill="none"/>
+    
+    <!-- 负对角线 -->
+    <path d="M190,70 L70,200" stroke="red" stroke-width="2" fill="none"/>
+    <path d="M260,70 L130,200" stroke="red" stroke-width="2" fill="none"/>
+    <path d="M320,70 L190,200" stroke="red" stroke-width="2" fill="none"/>
+    
+    <!-- 图例 -->
+    <line x1="380" y1="100" x2="430" y2="100" stroke="blue" stroke-width="2"/>
+    <text x="440" y="105" font-size="16">正项</text>
+    <line x1="380" y1="130" x2="430" y2="130" stroke="red" stroke-width="2"/>
+    <text x="440" y="135" font-size="16">负项</text>
+</svg>
