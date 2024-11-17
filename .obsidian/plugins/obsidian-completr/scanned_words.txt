@@ -81,6 +81,8 @@ tip
 trim
 tRsptHBP
 trap
+trace
+theorem
 Switch
 Saving
 Solving
@@ -164,6 +166,7 @@ Machine
 Miscellaneous
 Model
 MBR
+Moivre
 OPTIONS
 On
 Orthogonality
@@ -307,6 +310,7 @@ Different
 Danger
 Design
 Dijkstra
+De
 with
 wMxVgW
 wfwuGDsU
@@ -405,6 +409,7 @@ stochastic
 summing
 seek
 src
+sin
 under
 understood
 upper
@@ -475,6 +480,8 @@ Left
 LRU
 LFU
 Laplace
+Lindeberg
+Levy
 ZfVif
 ZL
 Zrwp
@@ -714,6 +721,7 @@ ROM
 qAV
 quote
 xxx
+xOz
 Quote
 Qgs
 keys

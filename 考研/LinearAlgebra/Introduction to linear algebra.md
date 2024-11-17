@@ -83,7 +83,7 @@ $$
 2. $(AB)^T=B^TA^T$
 3. $x\cdot y=x^Ty$
 4. If $S^T=S$,its *LDU* factorization is symmetric :$S=LDL^T$
-5. Permutation matrix P : $P^T=P^-1$
+5. Permutation matrix P : $P^T=P^{-1}$
 # Chapter 3  Vector spaces and SubSpaces
 ## 3.1 spaces of vectors
 ### Subspace : 
