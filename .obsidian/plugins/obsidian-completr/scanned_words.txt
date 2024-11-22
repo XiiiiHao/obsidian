@@ -105,6 +105,7 @@ Summary
 Stochastic
 Sj
 Sarrus
+Structure
 EXCALIDRAW
 Excalidraw
 Elements
@@ -255,6 +256,7 @@ doubly
 dTCGG
 design
 div
+double
 You
 YfgxJI
 can
@@ -340,6 +342,7 @@ fist
 front
 fail
 flag
+float
 For
 FyjuVuOp
 Factorization
@@ -505,6 +508,8 @@ newer
 new
 note
 nonnegative
+nlogn
+nextval
 Umo
 UAWjOJKT
 zZPMWVoM
@@ -535,6 +540,7 @@ Proof
 PSW
 PBR
 PAQ
+PM
 hhCDOmUj
 have
 has
@@ -661,6 +667,7 @@ AyXCNFY
 Algorithm
 Analysis
 Asymptotic
+ADT
 Key
 Kirchhoff
 Block
@@ -673,6 +680,7 @@ Bug
 Behavior
 BF
 BIOS
+BST
 Inverse
 If
 Important
