@@ -55,6 +55,8 @@ prefix
 processedLines
 ps
 proof
+printNodeAndLevel
+printf
 tags
 to
 the
@@ -83,6 +85,7 @@ tRsptHBP
 trap
 trace
 theorem
+temp
 Switch
 Saving
 Solving
@@ -160,6 +163,7 @@ indexOf
 img
 iCYn
 induction
+int
 MORE
 Matrices
 Matrix
@@ -168,6 +172,7 @@ Miscellaneous
 Model
 MBR
 Moivre
+MIN
 OPTIONS
 On
 Orthogonality
@@ -199,6 +204,9 @@ mode
 matches
 matching
 map
+maxWidth
+maximum
+max
 of
 or
 operations
@@ -257,6 +265,7 @@ dTCGG
 design
 div
 double
+deleteLeaves
 You
 YfgxJI
 can
@@ -298,6 +307,8 @@ ctrl
 computation
 complexity
 counting
+count
+childs
 Drawing
 Decompress
 Data
@@ -324,6 +335,7 @@ word
 write
 warning
 width
+while
 file
 from
 for
@@ -343,6 +355,8 @@ front
 fail
 flag
 float
+findLevel
+findMax
 For
 FyjuVuOp
 Factorization
@@ -413,6 +427,8 @@ summing
 seek
 src
 sin
+struct
+swapChildren
 under
 understood
 upper
@@ -436,6 +452,7 @@ Taylor
 Tower
 Tarjan
 TLB
+TreeNode
 WVYMY
 Why
 We
@@ -469,6 +486,11 @@ ref
 real
 raw
 rot
+rightcount
+root
+rightHeight
+rear
+rightMax
 yGkHT
 your
 yank
@@ -510,6 +532,7 @@ note
 nonnegative
 nlogn
 nextval
+node
 Umo
 UAWjOJKT
 zZPMWVoM
@@ -550,6 +573,7 @@ hlsearch
 highlight
 help
 hVNlAe
+height
 HwO
 Help
 HG
@@ -578,6 +602,14 @@ lV
 ln
 log
 logn
+leftcount
+leftHeight
+levelSize
+leaf
+level
+leftLevel
+limits
+leftMax
 Chapter
 Calculating
 Column
@@ -597,6 +629,8 @@ vector
 vice
 versa
 value
+val
+void
 and
 ax
 as
@@ -681,6 +715,7 @@ Behavior
 BF
 BIOS
 BST
+BiTree
 Inverse
 If
 Important
@@ -693,6 +728,7 @@ IMG
 II
 III
 INTR
+INT
 No
 Null
 Networks
@@ -701,6 +737,7 @@ Note
 Nn
 NnoSiG
 NMI
+NULL
 Jordan
 Just
 Jump
@@ -714,6 +751,9 @@ gqTYJW
 gg
 gc
 gePM
+getHeight
+getWidth
+getLevel
 Rank
 Running
 Ready
@@ -728,6 +768,7 @@ Recursion
 ROM
 qAV
 quote
+queue
 xxx
 xOz
 Quote
