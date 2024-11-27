@@ -1,10 +1,7 @@
 [
-  "obsidian-completr",
-  "obsidian-excalidraw-plugin",
   "obsidian-hover-editor",
   "obsidian-latex-suite",
   "obsidian-outliner",
   "templater-obsidian",
-  "obsidian-vimrc-support",
-  "vscode-editor"
+  "obsidian-vimrc-support"
 ]
