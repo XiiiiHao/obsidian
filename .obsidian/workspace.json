@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/高数/强化补全/小技巧与注意事项.md",
+                "file": "考研/zz/史纲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "小技巧与注意事项"
+              "title": "史纲"
             }
           }
         ],
@@ -195,12 +195,19 @@
   },
   "active": "8d8c0919413012f5",
   "lastOpenFiles": [
+    "考研/zz/总结.md",
+    "考研/zz/史纲.md",
+    "考研/zz/毛概.md",
+    "考研/zz/马原.md",
+    "考研/zz/db1b024fc1706771e6975e19cb9c7c8e.par.temp",
+    "考研/zz/bb47adac5a1ca92c3a0b24b0ec1ee0e7.par.temp",
+    "考研/🐙线代/技巧.md",
+    "考研/高数/强化补全/小技巧与注意事项.md",
     "考研/高数/强化补全/微分方程.md",
     "考研/高数/强化补全/求极限.md",
     "考研/高数/强化补全/积分.md",
     "考研/高数/强化补全/级数.md",
     "考研/高数/易忘知识点.md",
-    "考研/高数/强化补全/小技巧与注意事项.md",
     "考研/高数/强化补全/导数.md",
     "考研/高数/强化补全/函数及其性质.md",
     "考研/高数/强化补全/不等关系.md",
@@ -217,11 +224,6 @@
     "考研/概率论/第3讲 一维随机变量函数的分布.md",
     "考研/概率论/第4讲 多维随机变量及其分布.md",
     "考研/概率论/注：.md",
-    "考研/概率论/第1讲 随机事件与概率.md",
-    "考研/概率论/第2讲 一维随机变量及其分布.md",
-    "考研/概率论/第7讲 大数定律与中心极限定理.md",
-    "考研/高数/大纲/第18讲多元函数积分学.md",
-    "考研/高数/大纲/第17讲 多元函数积分学的预备知识.md",
     "考研/DS/code/Sort/MergeSort.c",
     "考研/DS/code/Sort/HeapSort.c",
     "考研/DS/code/Sort/EasySelectSort.c",
@@ -229,8 +231,6 @@
     "考研/DS/code/Sort/BubbleSort.c",
     "考研/DS/code/Sort/HalfInsertSort.c~",
     "考研/DS/code/Sort/ShellSort.c",
-    "考研/DS/code/Sort/HalfInsertSort.c",
-    "考研/zz/未命名",
     "考研/🐙线代/attachments/sarrus-rule.svg",
     "attachments/Pasted image 20240817144135.png",
     "考研/LinearAlgebra/attachments/Pasted image 20240817143951.png",
