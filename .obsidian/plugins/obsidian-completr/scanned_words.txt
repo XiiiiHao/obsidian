@@ -86,6 +86,8 @@ trap
 trace
 theorem
 temp
+tailvex
+tlink
 Switch
 Saving
 Solving
@@ -130,6 +132,7 @@ Virtualization
 VmvLWyQY
 VBk
 Vx
+Vi
 in
 info
 idea
@@ -164,6 +167,8 @@ img
 iCYn
 induction
 int
+ivex
+ilink
 MORE
 Matrices
 Matrix
@@ -324,6 +329,7 @@ Danger
 Design
 Dijkstra
 De
+DFS
 with
 wMxVgW
 wfwuGDsU
@@ -357,6 +363,10 @@ flag
 float
 findLevel
 findMax
+firstarc
+firstin
+firstout
+firstedge
 For
 FyjuVuOp
 Factorization
@@ -453,6 +463,7 @@ Tower
 Tarjan
 TLB
 TreeNode
+TD
 WVYMY
 Why
 We
@@ -533,6 +544,7 @@ nonnegative
 nlogn
 nextval
 node
+nextarc
 Umo
 UAWjOJKT
 zZPMWVoM
@@ -547,6 +559,8 @@ zz
 jAV
 just
 join
+jvex
+jlink
 PmknBIGM
 Permutations
 Permutation
@@ -574,6 +588,8 @@ highlight
 help
 hVNlAe
 height
+headvex
+hlink
 HwO
 Help
 HG
@@ -663,6 +679,7 @@ alt
 analysis
 average
 arcsinx
+adjvex
 be
 become
 back
@@ -716,6 +733,7 @@ BF
 BIOS
 BST
 BiTree
+BFS
 Inverse
 If
 Important
