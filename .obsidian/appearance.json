@@ -1,5 +1,9 @@
 {
   "accentColor": "",
   "theme": "moonstone",
-  "baseFontSize": 22
+  "baseFontSize": 22,
+  "baseFontSizeAction": true,
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font"
 }
