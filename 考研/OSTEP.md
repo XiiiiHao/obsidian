@@ -1,4 +1,4 @@
-# Virtualization
+ Virtualization
 ## The abstraction : The Process
 ### Definition
 A abstraction provided by the OS of a running program. Simply it is just a running program.
