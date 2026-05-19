@@ -1,5 +1,5 @@
 {
-  "spellcheck": true,
+  "spellcheck": false,
   "vimMode": true,
   "readableLineLength": false,
   "alwaysUpdateLinks": true,
@@ -13,5 +13,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": false
 }

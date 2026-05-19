@@ -1,9 +1,10 @@
 {
-  "accentColor": "",
+  "accentColor": "#f2c4c4",
   "theme": "moonstone",
-  "baseFontSize": 22,
+  "baseFontSize": 17,
   "baseFontSizeAction": true,
   "textFontFamily": "JetBrainsMono Nerd Font",
   "monospaceFontFamily": "JetBrainsMono Nerd Font",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font"
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "cssTheme": "Obsidian gruvbox"
 }
