@@ -11,8 +11,8 @@ then
 fi
 
 # Source file name
-src_file="$1.md"
-
+src_file="$1.md":
+\
 # Get current date and time
 current_date=$(date +"%Y-%m-%d")
 current_time=$(date +"%H:%M:%S")
