@@ -83,6 +83,8 @@ exec
 exceve
 envp
 errno
+evaluate
+efficiently
 plugin
 parsed
 palette
@@ -199,6 +201,7 @@ prize
 predicts
 patch
 percentile
+parameters
 tags
 to
 the
@@ -280,6 +283,9 @@ teamwork
 takeaway
 thymic
 trained
+train
+test
+try
 Switch
 Saving
 Solving
@@ -371,6 +377,7 @@ SelectKBest
 StratifiedKFold
 SVM
 Source
+Softmax
 EXCALIDRAW
 Excalidraw
 Elements
@@ -450,6 +457,8 @@ Eastern
 Entrepreneurship
 English
 Environment
+Evaluate
+Euclidean
 VIEW
 VZS
 Vector
@@ -586,6 +595,7 @@ introduction
 improves
 immunotherapy
 improved
+images
 MORE
 Matrices
 Matrix
@@ -659,6 +669,8 @@ MF
 MGTPEZ
 MINIMAX
 My
+Manhattan
+Multinomial
 OPTIONS
 On
 Orthogonality
@@ -799,6 +811,7 @@ model
 mark
 most
 mean
+minimize
 of
 or
 operations
@@ -874,6 +887,7 @@ organizing
 organizational
 options
 outcomes
+optimization
 document
 decompress
 data
@@ -979,6 +993,8 @@ developing
 diligently
 dsu
 diversity
+dataset
+define
 You
 YfgxJI
 YSQ
@@ -1153,6 +1169,7 @@ cultivating
 correlates
 cv
 components
+classifier
 Drawing
 Decompress
 Data
@@ -1243,6 +1260,8 @@ Deep
 DSU
 Dummy
 DummyClassifier
+Driven
+Distance
 with
 wMxVgW
 wfwuGDsU
@@ -1421,6 +1440,9 @@ formatting
 fortunate
 fy
 frequent
+folds
+fold
+finding
 For
 FyjuVuOp
 Factorization
@@ -2053,6 +2075,7 @@ Language
 LaTeX
 LogisticRegression
 LinearSVM
+Logistic
 ZfVif
 ZL
 Zrwp
@@ -2197,6 +2220,7 @@ Unix
 Unsigned
 UDP
 University
+Use
 zZPMWVoM
 zero
 zeros
@@ -2393,6 +2417,7 @@ having
 had
 hoped
 health
+hyperparameters
 HwO
 Help
 HG
@@ -2450,6 +2475,7 @@ Hao
 However
 Heatmap
 HU
+Hyperparameters
 lnwqzbL
 laws
 law
@@ -2536,6 +2562,8 @@ literacy
 literature
 leads
 locator
+labels
+loss
 Chapter
 Calculating
 Column
@@ -2640,6 +2668,8 @@ ChatGPT
 Center
 College
 CoM
+Collect
+Classifier
 vectors
 vector
 vice
@@ -2682,6 +2712,7 @@ vvvv
 visited
 very
 ve
+validation
 and
 ax
 as
@@ -2779,6 +2810,7 @@ admitted
 argv
 age
 alpha
+algoithms
 be
 become
 back
@@ -2992,6 +3024,7 @@ Although
 Abstract
 AUC
 Acc
+Apporach
 Key
 Kirchhoff
 KB
@@ -3245,6 +3278,8 @@ Nanyang
 Next
 Natural
 Net
+Nearest
+Neighbor
 Jordan
 Just
 Jump
@@ -3437,6 +3472,7 @@ Random
 RidgeClassifier
 RepeatedStratifiedKFold
 ROC
+Regression
 qAV
 quote
 queue

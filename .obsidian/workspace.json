@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deeplearning/01 神经网络基础/反向传播.md",
+                "file": "Courses/CS231n/L2 Image Classification with linear classifiers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "反向传播"
+              "title": "L2 Image Classification with linear classifiers"
             }
           }
         ]
@@ -174,8 +174,8 @@
   },
   "active": "6e7d0cae2c9f4a12",
   "lastOpenFiles": [
-    "Deeplearning/01 神经网络基础/梯度.md",
     "Deeplearning/01 神经网络基础/反向传播.md",
+    "Deeplearning/01 神经网络基础/梯度.md",
     "Deeplearning/01 神经网络基础/梯度消失与梯度爆炸.md",
     "Deeplearning/00 数学基础/信息论/KL散度.md",
     "Deeplearning/04 网络结构",
